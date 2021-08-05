@@ -38,7 +38,11 @@ Check out the GitHub repository:
 
 <div>
   
-  
+  <p align="center">
+  <b><em>Most Used Languages:</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabk&layout=compact" alt="GitHub Stats" /> <br/><br/>
+</p>
+
 <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsabk" alt="GitHub Stats" /> <br/><br/>
@@ -46,13 +50,10 @@ Check out the GitHub repository:
 
 <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=utsabk&count_private=true&show_icons=true&hide=contribs" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=utsabk&theme=monokai&count_private=true&show_icons=true&hide=contribs" alt="GitHub Stats" /> <br/><br/>
 </p>
 
-<p align="center">
-  <b><em>Most Used Languages:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabk&layout=compact" alt="GitHub Stats" /> <br/><br/>
-</p>
+
 
 </div>
 
