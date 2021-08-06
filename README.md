@@ -25,7 +25,6 @@ __Metropolia University of Applied Sciences__
 __full-stack-open-2021__ is an online course offered by the University of Helsinki. This course introduces to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
 Check out the GitHub repository:
-
 <div>
   <p>
     <a href="https://github.com/utsabk/full-stack-open-2021">
@@ -33,6 +32,21 @@ Check out the GitHub repository:
     </a>
   </p>
 </div>
+
+<h2>Recently finished:</h2>
+<h4>SnapShare</h4>
+
+__SnapShare__ is a school project which is further developed into a working application. SnapShare is an media sharing applicaton that allows users to snap pictures and share them up with friends insatntly. Similarly, it also allows to view posts uploaded by friends and react to them.
+
+Check out the GitHub repository:
+<div>
+  <p>
+    <a href="https://github.com/utsabk/SnapShare">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=utsabk&repo=SnapShare&show_owner=True" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
 
 <h2>👀 Stats</h2>
 
