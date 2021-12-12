@@ -1,4 +1,4 @@
-![Utsab Kharel Banner Image](./banner.png)
+![Utsab Kharel Banner Image](./bannerColor.png)
 <!-- <h2 align='center'>Utsab Kharel</h2>
 <p align='center'><b>A Software Engineering Student at Metropolia University of Applied Sciences</b></p> -->
 
@@ -8,13 +8,13 @@
 
 I'm Utsab Kharel! 
 - <i>Study:</i> Software Engineering Student at Metropolia University of Applied Sciences 
-- <i>Job:</i> Field Trial Test Engineer at Marquistech Private Limited.
+- <i>Job:</i> Junior Developer at Nordcloud, an IBM Company
 
 <h2>💻 I'm Currently Learning</h2>
 
 __The University of Helsinki__
 - Full Stack Web Development 2021
-- Elements of AI: Building AI
+
 
 __Metropolia University of Applied Sciences__
 - Bachelor’s Thesis (Mobile Solutions)
@@ -34,15 +34,15 @@ Check out the GitHub repository:
 </div>
 
 <h2>Recently finished:</h2>
-<h4>SnapShare</h4>
+<h4>Liiku-ulkona</h4>
 
-__SnapShare__ is a school project which is further developed into a working application. SnapShare is an media sharing applicaton that allows users to snap pictures and share them up with friends insatntly. Similarly, it also allows to view posts uploaded by friends and react to them.
+__Liiku-ulkona__ is an innovation project completed in collaboration with Helsinki city. The purpose of this project is to design and develop an application that would motivate and promote the residents of a city to exercise more. The goal is to increase the occupancy rate of the preexisting exercising equipment that are permanently accessible in parks and recreational areas for free.
 
 Check out the GitHub repository:
 <div>
   <p>
-    <a href="https://github.com/utsabk/SnapShare">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=utsabk&repo=SnapShare&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/utsabk/liiku-ulkona-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=utsabk&repo=liiku-ulkona-app&show_owner=true" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -77,4 +77,4 @@ Check out the GitHub repository:
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:kharelutsab@gmail.com">![kharelutsab@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/utsab-kharel-45b6a3193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:kharelutsab@gmail.com">![kharelutsab@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/utsabk/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
